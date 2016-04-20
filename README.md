@@ -1,4 +1,4 @@
-# EP-menantuidaman
+# EP-mencari calon isteri idaman
 -----
 <b>Tugas Kecerdasan Komputasional - A<br />
 Utama Nur Ariputra <br />(15/388508/PPA/04947)
